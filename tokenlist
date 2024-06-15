@@ -108,7 +108,7 @@
         "name": "Non-Official epitech token on arbitrum",
         "symbol": "EPICOIN",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/4490/thumb/aergo.png?1647696770"
+        "logoURI": "https://s3.amazonaws.com/appforest_uf/f1605786836050x199045280153180350/epitech-logo-signature-noir.png"
       },
       {
         "chainId": 1,
